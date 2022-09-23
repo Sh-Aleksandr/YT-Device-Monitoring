@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [33mcommit 108e2d8552a9f394a58969005021abc18cdd4190[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
 Merge: f989736 e9fbe0c
 Author: wwwblogger1 <wwwblogger1@gmail.com>
@@ -36,3 +37,6 @@ Date:   Wed Jun 9 11:29:57 2021 +0300
     initial commit
 
     commit 88888888
+=======
+1111118888
+>>>>>>> ad86d2d505363fc228286743e268b037ed78e002
