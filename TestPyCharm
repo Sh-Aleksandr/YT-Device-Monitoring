@@ -1,0 +1,3 @@
+from constants import OFFLINE_STATE
+
+print(ONLINE_STATE)
